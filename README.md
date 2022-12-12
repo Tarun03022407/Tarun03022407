@@ -39,7 +39,7 @@
   <br/>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="  href="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/311px-Nextjs-logo.svg.png?20190307203525" alt="Next.js" height="50"" /></a>  
+  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/311px-Nextjs-logo.svg.png?20190307203525" alt="Next.js" height="50"" /></a>  
   <br/>  
   <br/>  
 </div>
