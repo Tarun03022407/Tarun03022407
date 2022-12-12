@@ -4,9 +4,9 @@
 <img src="https://camo.githubusercontent.com/8ba1e66bcfa048214cf17f235c341742347c9c248831d044aa888acbeec89502/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313239323637372f73637265656e73686f74732f363133393136372f6d656469612f66636637666430633631396262383737303635333330373932343039313566332e676966" align="center" style="width: 100% , height:200px  " />
 </div>  
 
-<div><p align="left"> <img style="marginleft:20px" src="https://komarev.com/ghpvc/?username=tarun03022407&label=Profile%20views&color=0e75b6&style=flat" alt="tarun03022407" /> </p>
+<div><p align="center"> <img style="margin:20px" src="https://komarev.com/ghpvc/?username=tarun03022407&label=Profile%20views&color=0e75b6&style=flat" alt="tarun03022407" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=tarun03022407" alt="tarun03022407" /></a> </p></div>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=tarun03022407" alt="tarun03022407" /></a> </p></div>
   
   
   
