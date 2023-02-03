@@ -1,7 +1,7 @@
 ### <div align="center">I'm Tarun Aggarwal, a  full-stack developer 👨‍💻 ready to work remotely 🚀</div>  
 ###
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
 </div> 
 
 <div><p align="center"> <img style="margin:20px" src="https://komarev.com/ghpvc/?username=tarun03022407&label=Profile%20views&color=0e75b6&style=flat" alt="tarun03022407" /> </p>
